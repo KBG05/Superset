@@ -13,4 +13,4 @@ FEATURE_FLAGS = {
 # Allow connections to external databases
 ENABLE_PROXY_FIX = True
 
-SQLALCHEMY_DATABASE_URI = 'postgresql://superset_user:bNWINYk7Y7C6THcC7QFSefQO6ihIYoYE@dpg-cv62cjl6l47c73d3bbjg-a/superset_db_jeaf'
+SQLALCHEMY_DATABASE_URI = postgresql://superset_user:bNWINYk7Y7C6THcC7QFSefQO6ihIYoYE@dpg-cv62cjl6l47c73d3bbjg-a/superset_db_jeaf
